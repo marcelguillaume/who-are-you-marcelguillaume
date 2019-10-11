@@ -8,6 +8,10 @@
 * 234 : Footer
 * 241 : Responsive
 ----------------------------------------------------------------------------- */
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background: white;
   color: #000000;

@@ -27,6 +27,10 @@ $screen-mobile: 600px;
 $screen-tablets: 1000px;
 $screen-smalldesktops: 1300px;
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background: $bg-primary-color;
     color: $font-color;
